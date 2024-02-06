@@ -7,7 +7,7 @@ Built with [Tauri](https://tauri.app/) beta
 Support on `Android` (`IOS` soon)
 
 ## Download
-Download available at [bitvault/releases](https://github.com/thewh1teagle/bitvault/releases/latest)
+Downloads available at [bitvault/releases](https://github.com/thewh1teagle/bitvault/releases/latest)
 
 ## Usage
 1. Export encrypted bitwarden `json` from [vault.bitwarden.com/#tools/export](https://vault.bitwarden.com/#/tools/export)  
