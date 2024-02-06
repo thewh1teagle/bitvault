@@ -12,6 +12,7 @@ Downloads available at [bitvault/releases](https://github.com/thewh1teagle/bitva
 ## Features
 - Navigate in your vault items
 - View passwords / notes
+- Find your password / notes by keywords
 - Easily copy vault login details / notes
 - Vault remain encrypted once you exit the app
 
