@@ -11,6 +11,8 @@ Support on `Android` (`IOS` soon)
 Choose `.json (Encrypted)` format with `Password protected` option.
 2. Visit <a href="https://thewh1teagle.github.io/warden" target="_blank">thewh1teagle.github.io/warden</a> and open the json file
 
+The vault remains encrypted once you close the app!
+
 
 
 ![preview](preview.png)
