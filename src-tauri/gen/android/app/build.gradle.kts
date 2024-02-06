@@ -6,10 +6,10 @@ plugins {
 
 android {
     compileSdk = 33
-    namespace = "com.tauri.bitvault"
+    namespace = "com.github.thewh1teagle.bitvault"
     defaultConfig {
         manifestPlaceholders["usesCleartextTraffic"] = "false"
-        applicationId = "com.tauri.bitvault"
+        applicationId = "com.github.thewh1teagle.bitvault"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
