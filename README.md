@@ -2,4 +2,8 @@
 
 Local vault for Bitwarden password manager
 
-Built with [Tauri](https://tauri.app/)
+Built with [Tauri](https://tauri.app/) beta
+
+Support on `Android` (`IOS` soon)
+
+![preview](screenshot.png)
