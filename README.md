@@ -6,4 +6,4 @@ Built with [Tauri](https://tauri.app/) beta
 
 Support on `Android` (`IOS` soon)
 
-![preview](screenshot.png)
+![preview](preview.png)
