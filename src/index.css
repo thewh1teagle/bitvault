@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.dark {
+    background: #1f2937;
+}
+
+.light {
+    background: white;
+}
+
+.collapse-anim {
+    animation: collapse-anim 0.2s ease forwards;
+}
+
+.fade-in {
+    animation: fade-in-anim 0.2s ease;
+}
+
+@keyframes fade-in-anim {
+    from {
+        opacity: 0;
+    } to {
+        opacity: 1;
+    }
+}
+
+@keyframes collapse-anim {
+    from {
+        opacity: 0;
+    } to {
+        opacity: 1;
+    }
+}
